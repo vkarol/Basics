@@ -22,7 +22,7 @@ cities.sort()
 
 print(cities)
 
-#słownik
+#dict
 
 capitals = {
     'Poland': 'Warszawa',
