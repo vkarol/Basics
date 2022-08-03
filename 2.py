@@ -1,6 +1,6 @@
 capitals = {
     'Poland': 'Warszawa',
-    'Francja': 'Paris',
+    'France': 'Paris',
     'Germany': 'Berlin',
     'Hungary': 'Budapest',
     'Austria': 'Vienna',
